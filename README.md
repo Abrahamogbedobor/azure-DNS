@@ -13,10 +13,8 @@ In this tutorial, we observe various ne. <br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Active Directory running in Azure on a Virtual Machine
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Active Directory running in Azure on a Virtual Machine (DC_1)
+- A client machine running in Azure on a virtual machine (Client_1) and joined to the domain
 
 <h2>Operating Systems Used</h2>
 
