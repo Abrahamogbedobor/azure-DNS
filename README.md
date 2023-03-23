@@ -19,7 +19,7 @@ In this tutorial, we observe various ne. <br />
 <h2>Operating Systems Used</h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Window Server 20.04
 
 <h2>High-Level Steps</h2>
 
