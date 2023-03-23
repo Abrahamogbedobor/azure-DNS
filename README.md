@@ -23,10 +23,11 @@ In this tutorial, we observe various ne. <br />
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Inspecting DNS A-records on a server (Hostname to IP address mappings)
+- Creating new A-records on server (DC_1) and then observe them from the client machine
+- Deleting records from server and then insoect/clear client machine DNS cache in order to gain understanding 
+- CNAME records (Mapping one hostname to another hostname)
+- Root hints
 
 <h2>Actions and Observations</h2>
 
