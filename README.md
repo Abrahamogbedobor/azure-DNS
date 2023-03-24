@@ -44,10 +44,10 @@ In order to inspect A-records on a server, both Client_1 and DC_1 computer were 
 
 <p>
 <img src="https://i.imgur.com/aLLclBO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3eE9wSw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This session created A-records on DC_1 server by mapping mainframe to an IP address.
+This session created A-records on DC_1 server by mapping mainframe to DC_1 IP address
 </p>
 <br />
 
