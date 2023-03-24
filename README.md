@@ -34,10 +34,10 @@ In this tutorial, we observe various ne. <br />
 <p>
 <img src="https://i.imgur.com/QwCQbmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/HGgHcOY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fu8RNjh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In order to inspect A-records on a server, first, both Client_1 and DC_1 computer were remotely connected into as admin and domain admin respectively. Then Client_1 was used to ping a site called 'MAINFRAME'. The result shows no record was found as shown aobe. Figure1 above was used to illustrate how DNS works, and the preceeding figures were used to further explain DNS in details.
+In order to inspect A-records on a server, first, both Client_1 and DC_1 computer were remotely connected into as admin and domain admin respectively. Then Client_1 was used to ping a site called 'MAINFRAME'. The result shows no record was found as shown above. Figure1 above was used to illustrate how DNS works, and the preceeding figures were used to further explain DNS in details. From the figures abiove, Client_1 tries to ping a site first, it checks its own 'cache' to see if it could get an IP address for mainframe no result, then it check 'host file' available on all windows computer at c:\windows\system32\drivers\etc\hosts also no IP address that matches mainframe hostname.
 </p>
 <br />
 
