@@ -47,7 +47,7 @@ In order to inspect A-records on a server, both Client_1 and DC_1 computer were 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This session createD A-records on DC_1 server my mapping mainframe to an IP address.
+This session created A-records on DC_1 server by mapping mainframe to an IP address.
 </p>
 <br />
 
