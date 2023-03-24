@@ -53,8 +53,27 @@ This session created A-records on DC_1 server by mapping mainframe to DC_1 IP ad
 
 <p>
 <img src="https://i.imgur.com/Qxd5LEs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XSszF5C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Furthermore, to manually create A-record for the hostname mainframe and have it added to the list of A-records above, first right clicked on the empty space of the list of A-records then choose host name A
+Furthermore, to manually create A-record for the hostname mainframe and have it added to the list of A-records above, first right clicked on the empty space of the list of A-records then choose host name A. The popup box that comes up was then filled with the hostname to be mapped as well as chosen ip address of the domain (10.0.0.4). After successfully mapping, an attempt was then made to re-ping mainframe and the result was documented as shown above.
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Furthe
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Furthermore
 </p>
 <br />
