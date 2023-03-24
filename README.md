@@ -47,7 +47,7 @@ In order to inspect A-records on a server, both Client_1 and DC_1 computer were 
 <img src="https://i.imgur.com/3eE9wSw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This session created A-records on DC_1 server by mapping mainframe to DC_1 IP address
+This session created A-records on DC_1 server by mapping mainframe to DC_1 IP address. In order to ceate A-records for mainframe hostname, dns was selected from tools tab on DC_1 server management remote desktop. On the far left DC_1 was then expanded (chosen domain name) and 'forward lookup zone' was chosen as shown above (meaning, hostname to ip address). This then brought out the domain name bryanogbe.com, after a click on it, a list of A-records popup. A record simply mean mapping hostname to a physical ip address of the computer hosting the domain. Hence, the figure above shows how mainframe an hostname is been mapped to DC_1 IP address.
 </p>
 <br />
 
