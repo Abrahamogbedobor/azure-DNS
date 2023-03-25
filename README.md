@@ -76,3 +76,21 @@ The above figure shows the command used in checking Client_1 local cache with th
 CNAME stands for Canonical-Name, and it is used in mapping sub-domain to a root domain. For example, google.com (sub-domain) www.google.com (root domain). In a nutshell CNAME enable us to map a name to another name. When the mapping is done, one could search for search.google.com and same expected result for www.google.com will be derived. The above figure shows how CNAME is added to DC-1 for mapping. From figure2, ping command was carried oiut on search as shown the result came for www.google.com this is because search is mapped to it. It is very important to always flushdns when using A-records and CNAME records.
 </p>
 <br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Root hint is 
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+CNAME stands for Canonic
+</p>
+<br />
