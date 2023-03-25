@@ -78,11 +78,11 @@ CNAME stands for Canonical-Name, and it is used in mapping sub-domain to a root 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gtEAy5n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Root hint is 
+Root hint helps to resolved queries such as sites that are not currently on DNS server for instance bbc.co.iuk, espn.com and many other sites. The above figure further explains how root hint is being used and what location on DC-1 server management it's located.
 </p>
 <br />
 
