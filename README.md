@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/OYy9qqX.png" alt="Domain Name Server"/>
 </p>
 
-<h1>Domain Name Server (DNS) and Network File Permission</h1>
+<h1>Domain Name System (DNS) and Network File Permission</h1>
 In this tutorial, DNS server usage was explained  <br />
 
 
@@ -19,7 +19,7 @@ In this tutorial, DNS server usage was explained  <br />
 <h2>Operating Systems Used</h2>
 
 - Windows 10 (21H2)
-- Window Server 20.04
+- Window Server 2022
 
 <h2>High-Level Steps</h2>
 
