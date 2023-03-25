@@ -62,18 +62,17 @@ Furthermore, to manually create A-record for the hostname mainframe and have it 
 
 <p>
 <img src="https://i.imgur.com/LHJjZAe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows the command used in checking Client_1 local cache with the aim of retrieving the ip address of an hostname. Previously, this lab have illustrated how DNS works when user typed in a hostname on a search engine. First, the system check its own local cache for the IP address of the hostname, then it check host file and finally a check on local DNS server before displaying results. To check a system cache for ip address, ipconfig \displaydns waas used. From the above result, Client_1 were able to find the IP address of mainframe from its cache instead of going through DNS server or host file. Note, if mainframe ip address is change to let;s say 7.7.7.7 Client-1 will still be able to ping and get a rsult. However, that result would be from its old ip address. To rsolved the issue of old ip addrss still appearing on system local dns local cache, we used dnsflush to clean-up compiuter cache.
+The above figure shows the command used in checking Client_1 local cache with the aim of retrieving the ip address of an hostname. Previously, this lab have illustrated how DNS works when user typed in a hostname on a search engine. First, the system check its own local cache for the IP address of the hostname, then it check host file and finally a check on local DNS server before displaying results. To check a system cache for ip address, ipconfig \displaydns waas used. From the above result, Client_1 were able to find the IP address of mainframe from its cache instead of going through DNS server or host file. Note, if mainframe ip address is change to let;s say 7.7.7.7 Client-1 will still be able to ping and get a rsult. However, that result would be from its old ip address. To rsolved the issue of old ip addrss still appearing on system local dns local cache, we used ipconfig /flushdns to clean-up compiuter cache.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qRuHSIk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h8DpyV5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Furthermore
+CNAME stands for Canonical-Name, and it is used in mapping sub-domain to a root domain. For example, google.com (sub-domain) www.google.com (root domain). In a nutshell CNAME enable us to map a name to another name. When the mapping is done, one could search for search.google.com and same expected result for www.google.com will be derived. The above figure shows how CNAME is added to DC-1 for mapping. From figure2, ping command was carried oiut on search as shown the result came for www.google.com this is because search is mapped to it. It is very important to always flushdns when using A-records and CNAME records.
 </p>
 <br />
