@@ -3,7 +3,7 @@
 </p>
 
 <h1>Domain Name Server (DNS) and Network File Permission</h1>
-In this tutorial, we observe various ne. <br />
+In this tutorial, DNS server usage was explained  <br />
 
 
 <h2>Video Demonstration</h2>
