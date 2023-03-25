@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://i.imgur.com/OYy9qqX.png" alt="Domain Name Server"/>
+<img src="https://i.imgur.com/OYy9qqX.png" alt="Domain Name System"/>
 </p>
 
-<h1>Domain Name System (DNS) and Network File Permission</h1>
+<h1>Domain Name System (DNS) and Network Server</h1>
 In this tutorial, DNS server usage was explained  <br />
 
 <h2>Environments and Technologies Used</h2>
