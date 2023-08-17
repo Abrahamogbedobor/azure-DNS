@@ -79,11 +79,6 @@ CNAME stands for Canonical-Name, and it is used in mapping sub-domain to a root 
 Root hint helps to resolved queries such as sites that are not currently on DNS server for instance bbc.co.iuk, espn.com and many other sites. The above figure further explains how root hint is being used and what location on DC-1 server management it's located.
 </p>
 <br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 CNAME stands for Canonical Name in the Domain Name System (DNS) that is used to create alias between one domain name and the other.
 </p>
